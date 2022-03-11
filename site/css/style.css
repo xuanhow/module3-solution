@@ -1,18 +1,16 @@
-*{
-	margin: 0;
-	padding: 0;
-	
+.div #home-tiles {
+  font-size: 16px;
+  color: #fff;
+  background-color: #080808;
+  font-family: 'Oxygen', sans-serif;
 }
-.navbar{
 
+.navbar{
 border: none;
 background-color: black;
 color: #61122F;
 }
-body{
-	background-color: #61122F;
-	color: white;
-}
+
 .glyphicon{
 	font-size: 30px;
 	color:#61122F; 
@@ -39,4 +37,8 @@ h2{
 }
 .navbar-brand{
 font-size: 30px;	
+}
+
+body.p {
+	background-color: #080808;
 }
